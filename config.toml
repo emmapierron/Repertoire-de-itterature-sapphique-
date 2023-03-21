@@ -1,6 +1,6 @@
 baseurl = "https://emmapierron.github.io/Repertoire-de-litterature-sapphique/"
 #relativeURLs = true
-title = "Titre"
+title = "Littérature saphique"
 theme = "book"
 
 
