@@ -1,6 +1,5 @@
 ---
 title: "Titre"
-date: 2023-03-20
 ---
 
 ## Titre de niveau 2
