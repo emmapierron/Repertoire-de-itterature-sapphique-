@@ -207,7 +207,7 @@ body[dir="rtl"] .book-menu {
     border-radius: $border-radius;
 
     background: var(--gray-100);
-    color: var(--body-font-color);
+    color: indigo;
 
     &:required + .book-search-spinner {
       display: block;
