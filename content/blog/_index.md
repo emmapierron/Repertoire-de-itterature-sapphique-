@@ -1,6 +1,6 @@
 ---
-title: "Blog"
+title: "Textes"
 blog: "oui"
 ---
 
-## Liste des posts
+## Textes des autrices

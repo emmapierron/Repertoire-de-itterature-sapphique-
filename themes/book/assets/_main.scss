@@ -4,12 +4,13 @@ html {
   font-size: $font-size-base;
   scroll-behavior: smooth;
   touch-action: manipulation;
+  color: lavender
 }
 
 body {
   min-width: $body-min-width;
   color: var(--body-font-color);
-  background: var(--body-background);
+  background: mediumpurple;
 
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
@@ -29,6 +30,7 @@ h3,
 h4,
 h5 {
   font-weight: $body-font-weight;
+  color: lavender
 }
 
 a {

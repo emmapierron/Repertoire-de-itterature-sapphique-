@@ -1,4 +1,3 @@
 
-Bienvenu, ceci est la page de présentation du Modèle 3.
+Bienvenue sur le répertoire de littérature saphique francophone.
 
-Thème à partir du projet [Hugo-Book](https://github.com/alex-shpak/hugo-book)
