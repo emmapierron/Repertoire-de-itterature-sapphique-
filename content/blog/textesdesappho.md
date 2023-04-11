@@ -1,5 +1,6 @@
 ---
 title: "Textes de Sappho"
+weight: 1
 ---
 
 {{< button relref="/blog/_index.md" >}}Retour aux textes{{< /button >}}

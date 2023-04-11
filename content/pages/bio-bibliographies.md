@@ -1,7 +1,9 @@
 ## Biographies des autrices
 
+
 {{< details title="Sappho" open=true >}}
 
+![Fresque de Sappho](/static/image%20de%20sappho.jpg)
 
 {{< /details >}}
 
