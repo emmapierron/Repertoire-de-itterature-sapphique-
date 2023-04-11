@@ -3,11 +3,13 @@
 
 {{< details title="Sappho" open=true >}}
 
-![Fresque de Sappho](/images/imagesappho.jpg)
+<img src="../images/imagesappho.jpg" alt="description" width="200" height="200" />
 
 {{< /details >}}
 
 {{< details title="Renée Vivien" open=true >}}
+
+<img src="../images/imagereneevivien.jpg" alt="description" width="350" height="200" />
 
 {{< /details >}}
 

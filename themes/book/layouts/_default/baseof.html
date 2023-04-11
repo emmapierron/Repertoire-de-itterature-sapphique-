@@ -79,7 +79,8 @@
 
     {{ if eq .Params.blog "oui" }}
     <section>
-      {{ range .Pages.ByPublishDate }}
+      {{ range .Pages.ByWeight}}
+   
       <span><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       </span>  {{ end }}
       </section>
