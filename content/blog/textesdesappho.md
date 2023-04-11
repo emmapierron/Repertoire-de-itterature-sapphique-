@@ -102,6 +102,10 @@ Nous ne savons comment ni quand elle mourut : le saut de Leucade n’est qu’un
 
 #### I- Ode à l’Aphrodita  
 
+{{< columns >}} 
+
+
+
 I
 
 *Εὶς ᾽Αφροδιτα*
@@ -178,17 +182,11 @@ I
 σὐμμαχος ἒσσο.
 <br/>    
 
+<--->
 
-***  
+I  
 
-*Ode à l’Aphrodita*  
-
-
-Toi dont le trône est d’arc-en-ciel, immortelle Aphrodita, fille de Zeus, tisseuse de ruses, je te supplie de ne point dompter mon âme, ô Vénérable, par les angoisses et les détresses. Mais viens, si jamais, et plus d’une fois, entendant ma voix, tu l’as écoutée, et, quittant la maison de ton père, tu es venue, ayant attelé ton char d’or. Et c’étaient de beaux passereaux rapides qui te conduisaient. Autour de la terre sombre ils battaient des ailes, descendus du ciel à travers l’éther. Ils arrivèrent aussitôt, et toi, ô Bienheureuse, ayant souri de ton visage immortel, tu me demandas ce qui m’était advenu, et quelle faveur j’implorais, et ce que je désirais le plus dans mon âme insensée. *« Quelle Persuasion veux-tu donc attirer vers ton amour ? Qui te traite injustement, Psappha ? Car celle qui te fuit promptement te poursuivra, celle qui refuse tes présents t’en offrira, celle qui ne t’aime pas t’aimera promptement et même malgré elle. »* Viens vers moi encore maintenant, et délivre-moi des cruels soucis, et tout ce que mon cœur veut accomplir, accomplis-le, et sois Toi-Même mon alliée.
-
-***  
-
-
+Ode à l’Aphrodita  
 
 Accueille, immortelle Aphrodita, Déesse,
 <br/>
@@ -289,10 +287,21 @@ Et tu connaîtras ses lèvres nuptiales,
 Pâles de baisers. »
 <br/>
 
+{{< /columns >}}
+
+
+***  
+
+*Ode à l’Aphrodita*  
+
+
+Toi dont le trône est d’arc-en-ciel, immortelle Aphrodita, fille de Zeus, tisseuse de ruses, je te supplie de ne point dompter mon âme, ô Vénérable, par les angoisses et les détresses. Mais viens, si jamais, et plus d’une fois, entendant ma voix, tu l’as écoutée, et, quittant la maison de ton père, tu es venue, ayant attelé ton char d’or. Et c’étaient de beaux passereaux rapides qui te conduisaient. Autour de la terre sombre ils battaient des ailes, descendus du ciel à travers l’éther. Ils arrivèrent aussitôt, et toi, ô Bienheureuse, ayant souri de ton visage immortel, tu me demandas ce qui m’était advenu, et quelle faveur j’implorais, et ce que je désirais le plus dans mon âme insensée. *« Quelle Persuasion veux-tu donc attirer vers ton amour ? Qui te traite injustement, Psappha ? Car celle qui te fuit promptement te poursuivra, celle qui refuse tes présents t’en offrira, celle qui ne t’aime pas t’aimera promptement et même malgré elle. »* Viens vers moi encore maintenant, et délivre-moi des cruels soucis, et tout ce que mon cœur veut accomplir, accomplis-le, et sois Toi-Même mon alliée.
 
 ***  
 
 #### II- Ode à une femme aimée
+
+{{< columns >}}
 
 II
 
@@ -338,6 +347,42 @@ II
 εἰμί, τεθνηκέναι δὲ ὀλίγου ἐπιδεῖν
 <br/>
 φαίνομαι ἐμοὶ αὐτῇ.  
+
+<--->
+
+II  
+
+Ode à une femme aimée  
+
+
+L’homme fortuné qu’enivre ta présence
+<br/>
+Me semble l’égal des Dieux, car il entend
+<br/>
+Ruisseler ton rire et rêver ton silence.
+<br/>
+Et moi, sanglotant,
+<br/>
+
+Je frissonne toute, et ma langue est brisée :
+<br/>
+Subtile, une flamme a traversé ma chair,
+<br/>
+Et ma sueur coule ainsi que la rosée
+<br/>
+Apre de la mer ;
+<br/>
+
+Un bourdonnement remplit de bruits d’orage
+<br/>
+Mes oreilles, car je sombre sous l’effort,
+<br/>
+Plus pâle que l’herbe, et je vois ton visage
+<br/>
+A travers la mort.
+<br/>
+
+{{< /columns >}}
 
 ***  
 
