@@ -85,7 +85,7 @@ Celle qui voit toujours avec mélancolie
 Au fond des soirs d’orgie agoniser les fleurs.  
 <br/>
 
-### *Chanson*
+### *Chanson 1*
 
 
 Ta voix est un savant poème…  
@@ -142,7 +142,7 @@ Tu frôles sans les voir les frêles hyacinthes
 Qui se meurent d’amour, ayant touché tes pieds.  
 <br/>
 
-### *Sonnet*
+### *Sonnet 1*
 
 
 Parle-moi, de ta voix pareille à l’eau courante,  
@@ -254,7 +254,7 @@ Tournés vers le soleil, les chants et l’idéal !
 <br/>
 
 
-### *Chanson*
+### *Chanson 2*
 
 
 Le vol de la chauve-souris,  
@@ -354,7 +354,7 @@ Et ton âme, l’essor douloureux de la Foi.
 <br/>
 
 
-### *Chanson*
+### *Chanson 3*
 
 
 De ta robe à longs plis flottants  
@@ -541,7 +541,7 @@ Et le jour s’est levé, comme les autres jours !
 <br/>
 
 
-### *Chanson*
+### *Chanson 4*
 
 
 Comment oublier le pli lourd  
@@ -682,7 +682,7 @@ Et son baiser d’amour étreint l’éternité.
 <br/>
 
 
-### *Sonnet*
+### *Sonnet 2*
 
 
 Ô forme que les mains ne sauraient retenir !  
@@ -709,7 +709,7 @@ Porte au front le Désir ainsi qu’un diadème ?
 <br/>
 
 
-### *Chanson*
+### *Chanson 5*
 
 
 Le soir verse les demi-teintes  
@@ -773,7 +773,7 @@ Et tes yeux me chantaient la chanson des sirènes.
 <br/>
 
 
-### *Sonnet*
+### *Sonnet 3*
 
 
 Tes cheveux irréels, aux reflets clairs et froids,  
@@ -816,7 +816,7 @@ Je te hais et je t’aime abominablement.
 <br/>
 
 
-### *Chanson*
+### *Chanson 6*
 
 
 Ta chevelure d’un blond rose  
@@ -839,7 +839,7 @@ Et les fleurs t’appellent : Avril !
 <br/>
 
 
-### *Sonnet*
+### *Sonnet 4*
 
 
 Elles passent au loin, frêles musiciennes.  
@@ -983,7 +983,7 @@ Vois, la virginité de la lune expirante
 <br/>
 
 
-### *Chanson*
+### *Chanson 7*
 
 
 J’ai l’âme lasse du destin  
@@ -1029,7 +1029,7 @@ Plus terrible et plus beau que le spasme d’amour.
 <br/>
 
 
-### *Sonnet*
+### *Sonnet 5*
 
 
 L’orgueil des lourds anneaux, la pompe des parures,  

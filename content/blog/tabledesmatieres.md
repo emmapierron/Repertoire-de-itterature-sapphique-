@@ -29,19 +29,19 @@ weight: 1
 
 ### Renée Vivien
 
-*Bacchante triste*  
-*Chanson*  
-*Le couchant adoucit*  
-*Sonnet*  
-*Soir*  
-*Ta forme est un éclair…*  
-*Aurore sur la mer*  
-*Chanson*  
-*Ondine*  
-*Victoire*  
-*À l’amie*  
-*Chanson*  
-*L’éternelle vengeance*  
+[*Bacchante triste*](../textes-de-renée-vivien/#bacchante-triste)  
+[*Chanson 1*](../textes-de-renée-vivien/#chanson-1)  
+[*Le couchant adoucit*](../textes-de-renée-vivien/#le-couchant-adoucit)  
+[*Sonnet 1*](../textes-de-renée-vivien/#sonnet-1)  
+[*Soir*](../textes-de-renée-vivien/#soir)  
+[*Ta forme est un éclair…*](../textes-de-renée-vivien/#ta-forme-est-un-éclair)  
+[*Aurore sur la mer*](../textes-de-renée-vivien/#aurore-sur-la-mer)  
+[*Chanson 2*](../textes-de-renée-vivien/#chanson-2)  
+[*Ondine*](../textes-de-renée-vivien/#ondine)  
+[*Victoire*](../textes-de-renée-vivien/#victoire)  
+[*À l’amie*](../textes-de-renée-vivien/#a-l'amie)  
+[*Chanson 3*](../textes-de-renée-vivien/#chanson-3)  
+[*L’éternelle vengeance*](../textes-de-renée-vivien/#l'eternelle-vengeance)  
 *Sonnet à la mort*  
 *Nudité*  
 *Aube incertaine*  
