@@ -4,7 +4,7 @@ Hugo et le theme Book créé par Alex Shpak (version 0.68)
 
 Les outils :
 
-VsCodium
+VsCodium  
 Github
 
 et l'aide de Margot Mellet, doctorante en Littératures de langue française à l'Université de Montréal en Recherche et Création, dans le cadre du cours *Pratiques d'édition numérique*.
